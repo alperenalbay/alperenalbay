@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alperenalbay
-- 👀 I’m interested in pyhton and kali linux
+- 👀 I’m interested in pyhton and  linux
 - 🌱 I’m currently learning python and linux
 - 📫 How to reach me alperenalbayin@yaani.com
 
